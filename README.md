@@ -10,14 +10,15 @@ Copyright (C) 2004-2018 Anthony Lee, All rights reserved.
 
 <br>
 
-# 源码相关
+# 源代码相关
 
-+ 2008 年以前的旧源码见 [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension)；
-+ 新版本不再开放源码。
++ 项目实现与 HaikuOS、Cosmoe 等类似实现不存在任何直接关系；
 
-以上所提及 2008 年以前的旧源码，近期我才发现在 GitHub 上（也许是 OSDrawer.net 管理员好心传了上去）。
++ 2008 年以前的旧源代码见 [HaikuArchives/EasyToolkitAndExtension](https://github.com/HaikuArchives/EasyToolkitAndExtension)；
 
-令我不能容忍的是，像 [BeFree](https://github.com/HaikuArchives/BeFree) 这样的项目，几乎全盘照抄后又擅自更改成 LGPL 授权的荒唐行为，连原作声明都未见半字！由此，新版本将不再开放源码。
++ 新版本不再开放源代码。
+
+以上所提及 2008 年以前的旧源代码，近期我才发现在 GitHub 上（也许是 OSDrawer.net 管理员好心传了上去）。因部分项目未在遵循 MIT 协议下使用及传播前述旧源码，新版本不再开放源代码。
 
 <br>
 
