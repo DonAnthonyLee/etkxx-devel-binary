@@ -4,7 +4,7 @@ Copyright (C) 2004-2018 Anthony Lee, All rights reserved.
 
 <br>
 
-+ 大部分构思及实现来源于曾经辉煌一时的 BeOS API；
++ 大部分构思及实现的灵感来源于曾经辉煌一时的 BeOS API；
 
 + ETK++ 库为自由软件，可在遵循 MIT 协议下使用及传播。
 
